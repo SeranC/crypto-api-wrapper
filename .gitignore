@@ -1,0 +1,9 @@
+# env files
+venv/
+.env
+
+#PyCharm specific files
+.idea/
+
+# dev files
+dev/
